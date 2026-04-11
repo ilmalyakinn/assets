@@ -49,4 +49,4 @@ Kolom `label` dibuat menggunakan algoritma penilaian bersyarat (Rule-based Scori
 - **Wajib:** Terapkan `StandardScaler` (atau *scaler* sejenis) pada 5 kolom fitur nutrisi numerik pertama (`sugar`, `carbs`, `calories`, `sodium`, `fat`) sebelum masuk ke fase *training* model, karena perbedaan skala antara Gram dan Miligram.
 
 ---
-*Dikelola oleh Tim Data Science - DiaBites
+*Dikelola oleh Tim Data Science - DiaBites*
